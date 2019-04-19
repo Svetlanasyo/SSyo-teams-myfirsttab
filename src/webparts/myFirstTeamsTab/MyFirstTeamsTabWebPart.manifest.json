@@ -1,7 +1,7 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
-  "id": "8eb36405-e408-4578-8340-faf16d647d83",
-  "alias": "MyFirstTeamsTab",
+  "id": "44cdaa36-1d6f-466d-a57a-fafc3d898af8",
+  "alias": "SSyoMyFirstTeamsTabWebPart",
   "componentType": "WebPart",
 
 
@@ -13,8 +13,8 @@
   "preconfiguredEntries": [{
     "groupId": "5c03119e-3074-46fd-976b-c60198311f70", 
     "group": { "default": "Other" },
-    "title": { "default": "MyFirstTeamsTab" },
-    "description": { "default": "MyFirstTeamsTab description" },
+    "title": { "default": "SSyoMyFirstTeamsTab" },
+    "description": { "default": "First Teams Tab" },
     "officeFabricIconFontName": "Calculator",
     "properties": {
       "description": "MyFirstTeamsTab",
