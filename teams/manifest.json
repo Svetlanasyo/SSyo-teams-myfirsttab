@@ -25,7 +25,7 @@
     "accentColor": "#004578",
     "configurableTabs": [
       {
-        "configurationUrl": "https://{teamSiteDomain}{teamSitePath}/_layouts/15/TeamsLogon.aspx?SPFX=true&dest={teamSitePath}/_layouts/15/teamshostedapp.aspx%3FopenPropertyPane=true%26teams%26componentId=4cbc207e-1731-47ab-8c5c-45730a149ad2%26forceLocale={locale}",
+        "configurationUrl": "https://{teamSiteDomain}{teamSitePath}/_layouts/15/TeamsLogon.aspx?SPFX=true&dest={teamSitePath}/_layouts/15/teamshostedapp.aspx%3FopenPropertyPane=true%26teams%26componentId=44cdaa36-1d6f-466d-a57a-fafc3d898af8%26forceLocale={locale}",
         "canUpdateConfiguration": true,
         "scopes": [
           "team"
